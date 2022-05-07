@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taejin-chang&repo=CommonChicken)](https://github.com/taejin-chang/CommonChicken)
 <br>
 ## Status <br>  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taejin-chang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taejin-chang&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taejin-chang&show_icons=true&theme=default&hide=prs,issues)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taejin-chang&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 

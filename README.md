@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br>
 
 ## Project   <br>
-치킨공동구매사이트 '커먼치킨'(2022)_https://github.com/taejin-chang/CommonChicken
+- 치킨공동구매사이트 '커먼치킨'(2022)_https://github.com/taejin-chang/CommonChicken
 
 ## Status <br>  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taejin-chang&show_icons=true&theme=default&hide=prs,issues)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taejin-chang&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)

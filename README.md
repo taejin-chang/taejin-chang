@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
-
-## Projects   <br>
-<li>치킨공동구매사이트</li>(https://github.com/taejin-chang/CommonChicken)
 
 <br>
 
@@ -26,7 +22,6 @@ Here are some ideas to get you started:
 <br>
 
 ## Project   <br>
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taejin-chang&repo=CommonChicken)](https://github.com/taejin-chang/CommonChicken)
 <br>
 ## Status <br>  

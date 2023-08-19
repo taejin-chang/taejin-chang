@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-F80000?style=flat&logo=jpa&logoColor=white"/>
 <br>
 
-## Project   <br>
-- 치킨공동구매사이트 '커먼치킨'(2022)_https://github.com/taejin-chang/CommonChicken
 
 ## Status <br>  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taejin-chang&show_icons=true&theme=default&hide=prs,issues)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taejin-chang&layout=compact&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
